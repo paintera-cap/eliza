@@ -20,6 +20,148 @@
   <img src="./docs/static/img/eliza_diagram.jpg" alt="Eliza Diagram" width="100%" />
 </div>
 
+
+
+# TEE & pAIntera Capital: Secure Trading Infrastructure
+
+Combining AMD SEV-SNP and TPM 2.0 technologies to create an impenetrable fortress for your trading algorithms. pAIntera Capital Trusted Execution Environment ensures complete isolation and protection of your sensitive trading operations.
+
+## Trusted Execution Environment
+
+### Memory Encryption
+
+AMD SEV-SNP provides real-time memory encryption with unique keys per VM, preventing memory snooping and cold boot attacks.
+
+### Secure Boot Chain
+
+Verified boot process ensures system integrity from UEFI to application layer.
+
+### Attestation
+
+Hardware-based remote attestation proves the authenticity of the execution environment.
+
+### Isolated Execution
+
+Complete isolation from host OS and other VMs, protecting sensitive computations.
+
+## Secure Architecture Overview
+
+### Hardware Layer
+
+- AMD SEV-SNP CPU
+- TPM 2.0 Module
+- Secure Memory
+
+### Security Layer
+
+- Memory Encryption
+- Key Management
+- Process Isolation
+
+### Application Layer
+
+- Trading Logic
+- Risk Management
+- Access Control
+
+## Multi-Layer Security Architecture
+
+### Hardware Security
+
+- ✓TPM 2.0 Integration
+- ✓AMD SEV-SNP Support
+- ✓Memory Encryption
+- ✓Secure Page Tables
+
+### Key Management
+
+- ✓Hardware-Sealed Keys
+- ✓Secure Key Hierarchy
+- ✓Attestation Binding
+- ✓Rotation Policies
+
+### Runtime Protection
+
+- ✓Memory Isolation
+- ✓Stack Protection
+- ✓ASLR Implementation
+- ✓Control Flow Integrity
+
+## Technical Implementation
+
+Our secure trading agent leverages hardware-based security features to establish a robust trusted execution environment. The implementation utilizes AMD's SEV-SNP technology for memory encryption and isolation, combined with TPM 2.0 for secure key storage and attestation.
+
+### Key Management
+
+- Hardware-sealed key storage
+- Secure key rotation
+- Performance optimization
+
+### Runtime Security
+
+- Memory encryption
+- Process isolation
+- Continuous monitoring
+
+## AI Trading in Secure Environment
+
+### Secure Model Execution
+
+AI models run within TEE, protecting proprietary trading strategies and preventing model extraction attacks.
+
+### Protected Data Pipeline
+
+End-to-end encryption for market data processing and signal generation within secure enclaves.
+
+### Confidential Inference
+
+Model inference performed in encrypted memory, ensuring prediction privacy and strategy confidentiality.
+
+### Secure Model Updates
+
+Authenticated and encrypted model updates with hardware-backed verification.
+
+## Unified Security Architecture
+
+### AI Security
+
+- ✓Model Protection
+- ✓Data Privacy
+- ✓Secure Training
+- ✓Protected Inference
+
+### Trading Performance
+
+- ✓Low Latency
+- ✓High Throughput
+- ✓Reliable Execution
+- ✓Consistent Performance
+
+### TEE Advantages
+
+- ✓Hardware Isolation
+- ✓Memory Encryption
+- ✓Secure Boot
+- ✓Remote Attestation
+
+## Secure Trading Workflow
+
+### 1. Secure Initialization
+
+Hardware-verified boot process and TEE establishment with remote attestation
+
+### 2. Protected Model Loading
+
+Encrypted AI models loaded into secure memory with integrity verification
+
+### 3. Secure Data Processing
+
+Real-time market data processed within encrypted memory space
+
+### 4. Protected Trade Execution
+
+Trade signals generated and executed with hardware-backed signatures
+
 ## ✨ Features
 
 - 🛠️ Full-featured Discord, Twitter and Telegram connectors
