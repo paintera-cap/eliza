@@ -1,12 +1,12 @@
-# Eliza 🤖
+# The first on-chain AI agent Powered by ElizaOS 🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="https://pictr.com/images/2025/01/10/x1C06B.jpg" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+ 🎯 [Website](https://paintera.xyz/) | 📖 [Documentation](https://elizaos.github.io/eliza/)
 
 </div>
 
